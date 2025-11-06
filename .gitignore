@@ -2,3 +2,4 @@ instance/
 .env
 *.db
 .venv/
+TODO.txt
